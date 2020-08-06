@@ -1,5 +1,10 @@
 # 
 Webscraping on Spotify and Walmart
 #
-Items Required:
+Data Sets
 #
+https://www.walmart.com/
+https://developer.spotify.com/
+#
+Items Required:
+
