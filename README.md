@@ -1,2 +1,5 @@
-# Webscraping on Spotify and Walmart
-Term Project 540
+# 
+Webscraping on Spotify and Walmart
+#
+Items Required:
+#
