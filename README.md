@@ -5,9 +5,7 @@ Webscraping on Spotify and Walmart
 Walmart
 ###
 #
-Walmart Data:
-#
-https://www.walmart.com/search/?query=bath%20and%20body%20works%20body%20mist&cat_id=1085666&typeahead=bath%20and%20bod
+Dataset: https://www.walmart.com/search/?query=bath%20and%20body%20works%20body%20mist&cat_id=1085666&typeahead=bath%20and%20bod
 #
 #
 Items Required:
