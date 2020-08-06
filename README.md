@@ -9,6 +9,12 @@ Walmart Data:
 #
 https://www.walmart.com/search/?query=bath%20and%20body%20works%20body%20mist&cat_id=1085666&typeahead=bath%20and%20bod
 #
+#
+Items Required:
+1. Beautiful Soup bs4
+2. Pandas
+3. Request
+#
 Data was scraped from Walmart on female body spray using beautiful soup.  It was very difficult to retrieve 15 – 20 variables and I had to split the data to create variables.  For example, the product description gave the name of the fragrance, brand, and the ounces.  I removed the brand and created a variable named brand. Walmart does have a developer code, but it is used for vendors only.  Once tried to inspect the elements the data was hidden, and I had to right click on each item that I wanted to scrape to bring up the div tabs.   Most of the items are disallowed, but you can scrape some data.  I was successful in retrieving my 15 variables.
 
 The information retrieved from Walmart can provide information on the types of body spray, cost, ratings, shipping cost, etc. It can give the store things to keep on the rack’s dependent on surveys, yet information would require further investigation such as revenues being generated in order to perform a thorough investigation of the products.  Weekly and monthly analysis should be performed depending upon the stores policy. 
@@ -17,10 +23,11 @@ The information retrieved from Walmart can provide information on the types of b
 Spotify
 ###
 #
-Items Required:
-Before starting you should have two things done:
+Dataset
 https://developer.spotify.com/
-
+#
+Items Required:
+#
 1.  Spotify API permissions & credentials that could apply in the next block of code. Simply log in, go to your “dashboard” and select “create client id”.
 2.  Python module — spotipy — imported (you can download it using - "pip install spotipy")
 #
