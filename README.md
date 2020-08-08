@@ -23,5 +23,6 @@ Dataset: https://www.walmart.com/search/?query=bath%20and%20body%20works%20body%
 - 3) Request
 #
 3) Usage
+#
 This project provides webscraping techniques using an API and scraping directly from a website.
 #
